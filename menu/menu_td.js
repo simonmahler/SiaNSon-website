@@ -1,0 +1,13 @@
+with(milonic=new menuname("Main Menu")){
+style=menuStyle;
+alwaysvisible=1;
+orientation="horizontal";
+position="relative";
+aI("text=&nbsp;&nbsp;&nbsp;&nbsp;Home&nbsp;&nbsp;&nbsp;&nbsp;;url=index_eng.html;status=Home Page;");
+aI("text=&nbsp;&nbsp;&nbsp;&nbsp;About&nbsp;&nbsp;&nbsp;&nbsp;url=about.html;showmenu=About;");
+aI("text=&nbsp;&nbsp;&nbsp;&nbsp;Products&nbsp;&nbsp;&nbsp;&nbsp;;showmenu=Products;url=loans.html");
+aI("text=&nbsp;&nbsp;&nbsp;&nbsp;Investors&nbsp;&nbsp;&nbsp;&nbsp;;url=investors.html;status=Investors;");
+aI("text=&nbsp;&nbsp;&nbsp;&nbsp;Careers&nbsp;&nbsp;&nbsp;&nbsp;;showmenu=Careers;url=careers.html");
+aI("text=&nbsp;&nbsp;&nbsp;&nbsp;Contact&nbsp;&nbsp;&nbsp;&nbsp;;url=contact.html;status=Contact;");
+}
+drawMenus();

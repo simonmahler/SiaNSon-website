@@ -1,0 +1,69 @@
+
+body{
+	
+	background-repeat:no-repeat;
+	font-family:Verdana;
+	font-size:0.9em;
+	text-align:center;
+	background-color: transparent;
+}
+
+
+
+h1, .bigcap     { font-size: 400%; font-family: Garamond, Georgia, Times New Roman, Helvetica, sans-serif }
+.smallcap       { font-size: 300%; font-family: Garamond, Georgia, Times New Roman, Helvetica, sans-serif }
+.atext, .ahead  { font-size: 80%; font-family: Arial, Helvetica, sans-serif; color: black; text-decoration: none;}
+.apic		{ font-size: 80%; font-family: Arial, Helvetica, sans-serif; color: white; text-decoration: none;}
+.atext_small  { font-size: 80%; font-family: Arial, Helvetica, sans-serif; color: black; text-decoration: none;}
+.atext_plain   { text-decoration: none; color: black; }
+.sub_section_title { font-size: 120%; font-weight: bold; font-family: Verdana, Georgia, Times New Roman, Helvetica, sans-serif;  }
+.credit_title { font-size: 100%; font-family: Verdana, Georgia, Times New Roman, Helvetica, sans-serif; font-weight: bold; }
+.table_data    { font-weight: normal;	font-family:Verdana; font-size:0.9em; text-align:center; }
+
+.tab_menu         { padding-top: 0px; padding-bottom: 0px; height: 0px; }
+.milonic        { color: #C0C0C0; font-size: 30%;}
+.credits        { color: #000000; font-size: 70%;}
+
+.bottom_td      {text-align:center;}
+
+.menutext       { font-size: 90%; font-family: Arial, Helvetica, sans-serif; color: black; text-decoration: none;}
+.submenutext    { font-size: 65%; font-family: Arial, Helvetica, sans-serif; color: black; text-decoration: none;}
+
+.link           {text-decoration : none;}
+.atext          { font-weight: bold; }
+.ahead          { font-size: 70%; text-align: right; line-height: 90%; }
+.table          { border-width: 0px 0px 0px 0px }
+.tdbody         { padding-left: .4em; padding-right: .4em; line-height: 90%; text-align: center; vertical-align: middle; height: 1.7em; }
+.tdleftside     { padding-left: .25em; text-align: left; border-width: 2px 0px 2px 2px; vertical-align: middle; }
+.tdrightside    { padding-left: .25em; padding-right: .25em; text-align: center; vertical-align: middle; }
+.tdhead         { padding-right: .5em; border-width: 0px 0px 0px 0px; text-align: right; vertical-align: middle; }
+.tdmenu         { font-weight: bold; font-family: Arial, Helvetica, sans-serif; padding-left:.60em; padding-right:.60em; text-align: center;
+                  vertical-align: middle; }
+.tdmenu_left    { font-weight: bold; font-family: Arial, Helvetica, sans-serif; padding-left:0em; padding-right:.60em; text-align: center;
+                  vertical-align: middle; }
+
+.tdseparator    { padding-left: 5pt; padding-right:5pt; text-align: center; vertical-align: middle; }
+.tdseparator_l  { padding-left: 0pt; padding-right:5pt; text-align: center; vertical-align: middle; }
+
+.maintable      { border: 2px; }
+.headbanner     { padding-left: 4px; padding-right:4px; padding-top:4px; padding-bottom: 0pt; vertical-align:bottom;}
+.textcell       { padding-left: 10px; padding-right:10px; padding-top:0px; padding-bottom: 4pt;}
+.rightlinecell  { padding-left: 0px; padding-right:0px; width: 0px;}
+.leftlinecell  { padding-left: 0px; padding-right:0px; width: 0px;}
+.bottomlinecell  { height: 4px;}
+.verticalseparator { height: 4px; }
+.textbox        {padding-right: 10px; padding-left:10px; font-family: Arial, Helvetica, sans-serif; font-weight: normal;}
+.menu_outside_td {font-weight: bold; font-family: Arial, Helvetica, sans-serif; padding-top:0px; padding-bottom:0px; padding-left:0px; padding-right:0px;  text-align: center; vertical-align: middle; }
+.menu_inside_td {background-color:white; font-weight: bold; font-family: Arial, Helvetica, sans-serif; padding-top:2px; padding-bottom:2px; padding-left:10px; padding-right:10px; text-align: center; vertical-align: middle; }
+
+.flags { float:right;  border:0px solid #000; }
+.head_td       {height: 0px; padding-top: 0px;}
+.hr_line_black {padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-bottom: 0px; height: 1px; background-color: black;}        
+.vr_line_black {padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-bottom: 0px; width: 1px; background-color: black;}        
+
+.hr_line_white {padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-bottom: 0px; height: 1px; background-color: white;}        
+.vr_line_white {padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-bottom: 0px; width: 1px; background-color: white;}        
+.name_position {text-align: left; vertical-align: top;}
+.emp_name      {font-weight: bold;}
+.emp_position  {font-style: italic; }
+.id_photo      {text-align:center; vertical-align:top;}
