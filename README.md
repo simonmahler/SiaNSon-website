@@ -1,4 +1,4 @@
 SiaNSon-website
 ===============
 
-web presentation for a small microfinance bank in Benin (created in Parakou in 2008)
+This is a simple and crude web presentation created with Duncan Gilchrist for a small microfinance bank in Benin in the summer of 2008 in Benin.
